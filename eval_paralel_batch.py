@@ -14,7 +14,7 @@ ollama_session.headers.update({"Content-Type": "application/json"})
 SERVER_URL = "http://localhost:11434/api/chat"
 
 client = OpenAI(api_key="",
-                base_url = "https://oaip.amd.red/v1/")
+                base_url = "")
 
 with open('needles.json', 'r') as file:
     needles = json.load(file)
