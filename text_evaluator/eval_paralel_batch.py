@@ -41,7 +41,7 @@ percents = [0, 20, 40, 60, 100]
 MAX_RETRIES = 5
 RETRY_DELAY = 5  # секунд
 MODEL_NAME = "phi4_14b"
-OUTPUT_FILE = f'result/{MODEL_NAME}_par_20_work.json'
+OUTPUT_FILE = f'../result/{MODEL_NAME}_par_20_work.json'
 MAX_WORKERS = 10  # Максимальное количество параллельных запросов
 
 # Потокобезопасные структуры данных
@@ -106,56 +106,57 @@ def process_single_task(token: int, percent: float, elem: Dict) -> List[Dict]:
             # Загружаем базовый контент
             with open(f"text_needles/text_{token}_{percent}.json", 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                data = data['content']
             
-            for item in data:
-                if item['content'] == '0xFFFF':
-                    item['content'] = inf
-            
-            mes = data + [{'role': 'system', 'content': system_answer + q_a[0]}]
-            payload = {
-                "model": MODEL_NAME,
-                "messages": mes,
-                "stream": False,
-                "options": {
-                    "temperature": 0,
-                    "seed": 12345,
-                }
-            }
-            
-            # Запрос в ollama
-            start_ollama = time.time()
-            response_data = request_with_retry(ollama_call, payload)
-            end_ollama = time.time()
-            
-            if response_data is None:
-                print(f"Пропускаю {key}: ollama не ответил")
-                # Удаляем из обрабатываемых, если не удалось
-                with existing_lock:
-                    existing.remove(key)
-                continue
+            data = data.replace('0xFFFF', inf)
 
-            if 'message' in response_data and 'content' in response_data['message']:
-                pattern = r"<think>.*?</think>"
-                cleaned_text = re.sub(pattern, "", response_data['message']['content'], flags=re.DOTALL)
-            else:
-                print("Ошибка: нет ключа 'message' или 'content'.")
-                print("Полный ответ:", response_data)
-                with existing_lock:
-                    existing.remove(key)
-                continue
+            mes = data + [{'role': 'system', 'content': system_answer}, 
+                          {"role": "user", "content": f"CONTEXT:\n{data}\n\nQUESTION: {q_a[0]}"}]
+            print(mes)
+            # payload = {
+            #     "model": MODEL_NAME,
+            #     "messages": mes,
+            #     "stream": False,
+            #     "options": {
+            #         "temperature": 0,
+            #         "seed": 12345,
+            #     }
+            # }
+            
+            # # Запрос в ollama
+            # start_ollama = time.time()
+            # response_data = request_with_retry(ollama_call, payload)
+            # end_ollama = time.time()
+            
+            # if response_data is None:
+            #     print(f"Пропускаю {key}: ollama не ответил")
+            #     # Удаляем из обрабатываемых, если не удалось
+            #     with existing_lock:
+            #         existing.remove(key)
+            #     continue
 
-            print(f"Обработано: token={token}, percent={percent}, needle={inf[:50]}...")
+            # if 'message' in response_data and 'content' in response_data['message']:
+            #     pattern = r"<think>.*?</think>"
+            #     cleaned_text = re.sub(pattern, "", response_data['message']['content'], flags=re.DOTALL)
+            # else:
+            #     print("Ошибка: нет ключа 'message' или 'content'.")
+            #     print("Полный ответ:", response_data)
+            #     with existing_lock:
+            #         existing.remove(key)
+            #     continue
+
+            # print(f"Обработано: token={token}, percent={percent}, needle={inf[:50]}...")
             
-            task_result = {
-                "num_tokens": token,
-                "depth_percent": percent,
-                "needle": inf,
-                "question": q_a[0],
-                "response": cleaned_text,
-                "time_ollama": end_ollama - start_ollama,
-            }
+            # task_result = {
+            #     "num_tokens": token,
+            #     "depth_percent": percent,
+            #     "needle": inf,
+            #     "question": q_a[0],
+            #     "response": cleaned_text,
+            #     "time_ollama": end_ollama - start_ollama,
+            # }
             
-            result.append(task_result)
+            # result.append(task_result)
             
         except Exception as e:
             print(f"Ошибка при обработке {key}: {e}")
@@ -265,7 +266,6 @@ def batch_processing():
 
 def main():
     
-    # ПОДХОД 2: Батчевая обработка  
     paralel_processing()
 
 if __name__ == "__main__":
