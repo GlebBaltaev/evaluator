@@ -1,3 +1,2 @@
-FROM phi4:14b
-
-PARAMETER num_ctx 20000
+FROM gemma3:1b
+PARAMETER num_ctx 50000

@@ -3,7 +3,7 @@ import pandas as pd
 
 tokens = [512, 1024, 2000, 4000, 8000]
 percents = [0, 20, 40, 60, 80, 100]
-NAME = "phi4_14b"
+NAME = "gemma3"
 with open(f"result/{NAME}.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
