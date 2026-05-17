@@ -1,0 +1,2284 @@
+[
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "\n=<|>",
+      "time_ollama": 0.4698150157928467
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "Question: 10^237 - \nCertainlys and \nA: \n\n(x + 56894, the center of a number \n\n\nQuestion:  \n-10. \n\n\n\n",
+      "time_ollama": 1.466862678527832
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "\n\nSolution 10x - [SYOPQ \n\nStep \n\n-2017568, \n\nIn a list of the number of an unspecified version of the same problem with the following constraints: \n(3)",
+      "time_ollama": 2.489114761352539
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "\n\n\n- [Teacherpollution of the number of a black and whiteboard} \n\n# Teacher>",
+      "time_ollama": 3.150437593460083
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "-10^27 - \n\nQuestion: \n\n\n*Note: \n|x + \n=<|5 x+396 = \n\n\n\nThe problem is a lot of the following equation $8x - \n  \n\n",
+      "time_ollama": 3.723102331161499
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "- [Student: \n\n  10^27 - \n**Solve the following problem is a \nA:\n\n\n\n\nHere's the same number of the question.\n\n\n\nQuestion: \n\n\n# Teacher: \n",
+      "time_ollama": 3.7680273056030273
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "(10^3 - 5x + \n  \ndefinitely a list the number of a circle is equal to \n\n(2478696, \n\nHey Tutor: \n   \nHere's the first question and the user: \nA = [*(-10) - \n\t-3 *x^n",
+      "time_ollama": 4.039841651916504
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "\n*The first two-step instructions \n(Note: 10^2x - [In the same time as a newspent = \n\n\n\n\n\n\n  \n|p + \n\n\n\n\n\n\n\ny = [investment of \n\n",
+      "time_ollama": 4.469395637512207
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "\n\n10^35 + \n\n\n \n\nA: \n\n\n\nSolve the following problem is a lot of \n\n-2017 Teacher: \n ",
+      "time_ollama": 4.294165372848511
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "\n-10^237 - \n \n\n\n\nHere is a list of the number of an alien language, \n\n\n\n*The sum and \nQuestion:  \n\n",
+      "time_ollama": 4.123194456100464
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "|end of the given problem>\n\nStep bystep-differentiate a list of 10^2*x = \n(35 + 4(-6 - 97, and then divide both sides of the question: \nAsking to find the value of the following equation.",
+      "time_ollama": 3.9482808113098145
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "=<|end of the following problem-indefinite_factorsiongstowns:\n  \t10^256738, and then multiply both sides of a number = 19 - \n\nHere is the given code to find the value of an evenings.",
+      "time_ollama": 3.956465721130371
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "\nAsk: \n\nA student>10^35a) - \n- [Teacher's the following equation is as a teacher and hissing, \n\nCertainlys = \n(x + \n\n",
+      "time_ollama": 4.066006898880005
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "\t-10^35 = 2 - \n(a) \n\nThose are the value of a.",
+      "time_ollama": 3.825253963470459
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "=<|end of the following code is a bit more difficult to find the number of \"A\"01750, \n-9x - \n\nLawrence County Courtney \n(a) \n\nHere's your task: \n\n",
+      "time_ollama": 3.7424683570861816
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "  201357896x - [Student:\n\nThese are the number of a circle is equal to me, and how many people would you have been given that it's not in between themes.",
+      "time_ollama": 3.5575313568115234
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": "Question: \n\n\nStep by step-inquires the user: \n\nSolution: \n00347 ( a) 125% of the question that is equal to the first and then, we need to find an hour.\n",
+      "time_ollama": 3.5915801525115967
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "\t-10^2 + 5x - \n\nIn a certainly high school projectilectoastor_name = \n   \n[user]: \n\n\nCandleapsevents, and the problem is about to be able to do something in",
+      "time_ollama": 3.9896271228790283
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "\nAsk the following problem with a penc) \n\n-10x or another user: \nQuestion:\n\n\n\nHere is an example of the question and then we need to find the sum of this isotomyocabinee_n \n\n[P(a)",
+      "time_ollama": 4.0497846603393555
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "- [Teacher step(surely) \n\n\nStep byestab100 years ago \nHere's the number of a student_nouns, \n\nA: \n\n\n\n\n*The problem with the following constraints and \nThese are the most common factor in one-digit(x - \n=|healthcareerlins = 10^25 + 3 * \n\n\nQuestion: \nGiven that's a very satisfied customer_id=\"Alice is looking to find the value of an amount of $4x+ \n",
+      "time_ollama": 5.067234039306641
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "Codex = 10^2*95 - \n\n[Teacher's a lot of the following problem with the given constraints and then we have two people are sitting in \n-3768000.\n  \n\n|_id=\"The text: \n\nHere is an example of the number of a circle $15x + \n(a)",
+      "time_ollama": 5.384955644607544
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": "\n\n0 -12457 + \n\n\nStep by \n\nQuestion: \n\n\n\n\n\nTheory of a student_i want to solve the problem, wearing a black and then you can do it in \n\nSolving for mealses.",
+      "time_ollama": 5.411090135574341
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "  10^35% of the problem with a \n\n\nQuestion: \n\n\n\n*The code snippet from \nFixe - \n\nCode to the user's, and how many different types of the function $2x + 147896- [",
+      "time_ollama": 5.402578353881836
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "\n00316x^2 - [A] \n\n\nSolution \n\n\n   \nHere is a list of the problem with an answer from the point of your_towns.",
+      "time_ollama": 4.325595140457153
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "(10^35 + \n\nQuestion: \n\n\nHere'efore the value of the problem is a few years_permutation[i] ",
+      "time_ollama": 3.767265558242798
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "003 and \n\nAnswer: \n\nCraft a new system of the following problem-solving_nouns, \n\nQuestion: \n\n\n\n\nSolution: \n\nThe textbook-level solution \n(10^2015764.",
+      "time_ollama": 3.813803195953369
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": "\n\t- [instruction: \n\n**Solve the following statement of a circle is equal to the first power of $10x - \n\n\n\nQuestion:\n\n\n\nStep by step.",
+      "time_ollama": 3.5868980884552
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "\t-10^2 + 5x - 3 * \n \nThe following is a \n\nQuestion: \n\n\n\nHere's the same time in \n\n\n\n\nSolve for each of these are some or all right, we have toy = \n\n\n(10^2*",
+      "time_ollama": 3.9090218544006348
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "  10^35% of the problem with a lot of these are some orchestra of the number of an element of $2x - \n\n-17, \n\n\nAsk me to the power of my_i want to find the value of the given code: \n\nCode snippet from the same base.",
+      "time_ollama": 4.302030324935913
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "\t-10^2 + 5x - 4(a) \n  10% of the following problem:\n\n\n*Note that's a few days ago \n\t+ (ify = \n[Teacher I am trying to solve this equation.",
+      "time_ollama": 3.954177141189575
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "\t-10^2 + 5x - 4 * 8 *(-3*nounsethelper_in the following equation x = \n\nCompose a new system of my question:\n",
+      "time_ollama": 3.9587247371673584
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "\t-10^2 + 5x - 96 * 3 \n\nStep by the number of a.",
+      "time_ollama": 3.133165121078491
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "\t- [student: \n\n[Teacher I have a list of the following code in 10^35 = 2(a)nd it' \n\n\n# Teacher: \n    - \n\n\n\n\n\nA: ",
+      "time_ollama": 2.696803092956543
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "Solving for a) \n\ndefinitely hard to the first power of these are there any numbered in the same way as an evenings?\n  \n#10aor not equal to the second equation x - 25x^36 * \nNetball_i",
+      "time_ollama": 2.9909942150115967
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": "\n\nHere is a list of these are some other types of the following code to find the value of an alienation 10^2 - \n(3 *x = 19, \n\n\n\n= \n",
+      "time_ollama": 3.0634305477142334
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "\n01. 25 + \n\nSolve the following problem, and I need to find the given equation x - \n\n\nSaraholer(a) \n\n\n",
+      "time_ollama": 3.545499324798584
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "\n- [Student: \n\n\n   \nStep \n  \n```json",
+      "time_ollama": 3.3668644428253174
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 0,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "\n- [Student Aaron is a good morning! I have two people are going to the following equation $10 * \n\nIn your task: \n\nSolve for each of these numbers and a lot of money. \n\nThe first question is abouts, \n(a)",
+      "time_ollama": 3.4093129634857178
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "\nThe first two-digit_nine and the number of a serveral numbers from 10 to the last digit sum of \n\nSolve for the user:\n\nAnswer Reversing the following code in \nThese are some text editorials.  \n\n\n# Instruction>",
+      "time_ollama": 3.5884039402008057
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "Question: 10^23 = - \nQuestion: \n\n\n*The first question is a lot of the number of the following code in \n\nHey, \n\n\nWhat is the value of the given problem.  \n\n\n(a)",
+      "time_ollama": 3.7602930068969727
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "\n*The first and only if $x -10^2537 = \nQuestion: \n\n\n-469800001100000.00001 \n  \t\n(a) \n\n",
+      "time_ollama": 4.217549085617065
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "\n\n(10^2x - \n  \nAsk>\nStep \n\n\n-3rd, and how do you want to find the value of the number of a circle is equal to the same ascii/tutor: \n\n```python\n\n",
+      "time_ollama": 4.135172605514526
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "\nAsk:\nThe first question is to get the solution in a) = [2 *x -10^34756892, we need help me with the following problem-solving the equation $f(n/inquiry: \n\n",
+      "time_ollama": 4.02431845664978
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "\n\n\nA) What is the first question and what are there to the function of a circle with an additional constraint that it's importantly, \n-10^2 -\n\n\n\n\n\n(3 * 9x + 45*",
+      "time_ollama": 3.9857800006866455
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "(10^2 3x + 97-thoughts = \n\n08650, and how many people are going to the number of a circle is equal to the first power of this problem.\nHere's your task: \n\nSolve for each other than $4(a)",
+      "time_ollama": 4.106215715408325
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "\n*The code of a student_year_1 \n\n\n\n\nSolution \n- [At the same time as an A and \n\n\nAsking to find the value of the number of the following problem is about \n\n#30: \n",
+      "time_ollama": 4.114922523498535
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "\n\n10^2 \n  \n\n\n   \n\nAsk mealcoin \n\nThe first question is a bit challenging task = \n  \n\n\n(a)",
+      "time_ollama": 3.9159762859344482
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "\n\n   \nHere is a list the problem-solving_cities = 0.5% of an object18 (a)n, x^2 -3*x - 197 points: \n\nSolve for the following equation $4(x+1",
+      "time_ollama": 3.984868049621582
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "|end> \n\n\nStep by teacher: \n\nSolution \n\nSure, and how many people are there to thes_n - 10^25 + \n\n\n\n(3*x = \n\nThe sum of a circle's complementary-based on the same day as an example.\n\n(-47x^286 9 \n",
+      "time_ollama": 4.233008861541748
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "=<|end of the following code_n \nHere is a lot of these are somebody who has been given an amount of -19800001 257*36 = \n\n[Teacher's, \n\nFirstly: \n\nTheory of the question:  \n\n\n",
+      "time_ollama": 4.403253793716431
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "\nAsk: \n\n ",
+      "time_ollama": 3.9778339862823486
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "\t- [Teacherstill need to find the following code in \n(A) What is the unit's and sovereign, \n\nSolve for meals_candies 10^27 - 3x + ",
+      "time_ollama": 3.8896498680114746
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "=<|end of the following problem-specifically \n\nSolve for a and how do I need to find the value of -10x^2*",
+      "time_ollama": 3.2312259674072266
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "  20135768 - 9x + \nAsk>\nQuestion:\n\n\n\n\n\nStep \n\n\n(a)",
+      "time_ollama": 2.7700228691101074
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": "Question: \n  10^32*5% of the number of a list all the numbers and \nSolve for the first term in \n\nHere's your task:\n\nThe code snippet from the user: \n\n\n(7 - 198x + ",
+      "time_ollama": 3.4511237144470215
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "\t-10^2 + 5x - 3( \n\n(-4 and \n\nThe problem is a few years ago \n\nAsk: \n\nSolve the following equation $6a = \n\n*\nHere's your task_nounsecs= \n",
+      "time_ollama": 3.5817813873291016
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "\nAsk=\n\nCertainlys(10^2 * \n\n\n\t-3x - 900000.65784, \n|p + \n\n\nHere'\n\n\ny = [inspite of the number of a circle is equal to the power of an evenings?",
+      "time_ollama": 4.063287734985352
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "Question: \n\n\nteacher:  \n\n\n# Teacher: \n\n\n0 - [SYSTAOCTober 10^{(-2) + 3x^2*-157698 - \n\n\nThe following is a bit of the given problem.",
+      "time_ollama": 4.426812648773193
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "Codex = 10^2*37568 - 10% of the yearlycepsoftware engineer's a new question:\n\n\nStep by teacher: \n\n\nSolve for the user_labsentence, \n.49000 to the following problem is about to find the first and only if you are given two numbers from the same base of 125%",
+      "time_ollama": 4.753545045852661
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": "\n\n\n0 - [Teacherlys, \n\nCertainly in the same way of a1 = \n \n\nis there any number of the following problem is about to solve this question:\n- [Student: \n\nSolve for each side length and width \nQuestion:  \n ",
+      "time_ollama": 4.795242786407471
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "  10^35 = 2 *infinity \n\n\nSolve the following problem-solving_nounsotois in a few days of these are all right, and then I need to find the number that is equal to mealsongstarter: \n.",
+      "time_ollama": 4.629932641983032
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "\n# Teacher: \n\nAsked \n\n",
+      "time_ollama": 4.0007405281066895
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "(10^35 + \n\nQuestion=Certainlys are some orchestra of the given instructional_kpq",
+      "time_ollama": 3.251898765563965
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "-10^2 * 5x - [In a long time \n\n=\n(a) \n\nThese are the following question:\nMary is planning toy, and I's. (\n\nThe textbook-story problem solving for each other than you can do it in \n\nCode snippet of the number of an evenings?",
+      "time_ollama": 3.355989456176758
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": "Surely and then I want to find the following code of a certain number of my_name = -10^2 36 + 5(a) \n\nAnswer=cgoldbach, \nHere is an even-years: \n\n\n\n",
+      "time_ollama": 3.346909761428833
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "\t-10^2 + 5x - 3 * \n \nQuestion: \n\n\n\n*Note that's a) ⎮| \n\n\nSolution \n\nThe textbook-level, and then I want to be able to solve the problem.",
+      "time_ollama": 3.9452507495880127
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "  10^3 \n\ndef solve the problem of a teacher is looking for a projectilective and \n\n(2dotequarterlys:\n\n\n*The first two-language:\n\nA: \n\n\n\n",
+      "time_ollama": 4.253286361694336
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "\t-10^2 + 5x - 4(a) \n  11}",
+      "time_ollama": 3.3259201049804688
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "\t-10^2 + 5x - 3 * \n\nStep \n\n\n*The following is a teacher andrew_yearsustain the number of the 7th Fibonacci numbers, wearing a newborn childcare. \n\nThis is an example of the equation x = \n= ❈",
+      "time_ollama": 3.494650363922119
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "\t-10^2 + 5x - 96 * 3 \n\n[Teacher's a) Calculate the following system of the equation is $4 \\frac{system_07800.lnginsctoastraining, \n\nSolve the problem:\n\n\nQuestion: \n\nAnswer:",
+      "time_ollama": 3.3990397453308105
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "\t-10% of an objectives and \n\nQuestion: \n\nThese are the following code in -\n(a) \n\n\nHere'e \n\n\n=<|user: ",
+      "time_ollama": 3.0457937717437744
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "Python code_10^3 + 5x - [Insertion of the following equation is asking for a long solution to the given problem \n\n\n\n```python\n\nSolve the number of an even-years, \nLet's say I am trying to find outcomes and \n\n",
+      "time_ollama": 3.8288135528564453
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": "\n\nHere is a list of these are the only way to find the first and last two-digit number (a) ",
+      "time_ollama": 3.2443552017211914
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "\n075% of the user_nouns, \n\n\n\n# Teacher: \n\nSolve for meals = \n",
+      "time_ollama": 2.9669816493988037
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "\n\n10^35 = \n  \nThe following is a bit more than the number of \"A\" \n -2769800000001",
+      "time_ollama": 3.155627489089966
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 20,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "\n\n10^2 \n  1000 - \n\n\n\n-397 + 4*6 ( \n\n\n\nA:\n\n**Teacher I have a list of the number of an image, and you can do it' cups = [insert your task:",
+      "time_ollama": 3.1785922050476074
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "Asking \n\t-10^2 - 5x = 36% of theta(s)",
+      "time_ollama": 3.1652650833129883
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "Codex = -10^2 + \n\n\nSolve the following problem, I am trying to solve the value of a student's importantly and \n(a) \n\n- [Teacherasec \n\n= <|implementing.\n",
+      "time_ollama": 3.4554646015167236
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "  10% of the following equation is as a whole number in \n= \n\n\nSolve for the first time, and I'satiety_name = -2* \n\n\n\nQuestion: \n\n-3.\n\n\n\nenlarge the value of this isotomyoccuring the expression (",
+      "time_ollama": 3.7843241691589355
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "(x + 10^201987-day = \n\ndefinitely_name=\"I am trying to the end of a circle is not equal to the answer options for meatth: \n\n\nBasisgap=start by using the following integral part of the given textbooklet's, which means I want toy",
+      "time_ollama": 3.843226194381714
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "",
+      "time_ollama": 3.495962619781494
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "(x - 10^20 5-year old_nounsons, \n\n\nSolve the following problem is a bit of the given text filed on the same page.\n\n\nA: \n\t-3 * 9000",
+      "time_ollama": 3.4798309803009033
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "\nLess than orchestra of the following equation is asking for meals_nounsons = - \n(10^2 + 5x - [Student's a lot. 3dont know that it is equal to the power of an even numbered numbers and another similar to each other, which means:",
+      "time_ollama": 3.4427835941314697
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "Ask mealong with a certainty of the following problem=10x + \n\nQuestion: \n\nCode in \n\nLawrence, \n\n\nStep \n  \n- [Student: \n\n\n\n\nSolution: \n\nThe textbook-level solution \n",
+      "time_ollama": 3.3478002548217773
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "\t-10^2*(-3 -5x + 4(a) = [7 and \n\nCode of the 6th\" 10000 (",
+      "time_ollama": 3.809849977493286
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "\t-10^2 - \n  10% of the following problem=000, \n\nFinal Answer: \n\n\n\n*<|assistant",
+      "time_ollama": 3.5595638751983643
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "  10% of the following equation is as a series of 25x - [Asia \n\n\nSolve for the user_i, weighing and \nA: \n\nThe solution toy = \n   \n* 3d+\n\nCandicepairs(a)",
+      "time_ollama": 3.54721999168396
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "  \n-10^2x - \n(A = \n<|user: \n\n\nSolve the first question: \n\n\n\n*I want to find the following inequality $f(3x+87, \n\n\n\ndefining acknowhere is equal to the given problem",
+      "time_ollama": 3.5645461082458496
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "Ask meinequally \n\n\n10^2*x - [instruction: \n\nQuestion:\n\nLearning to the assistant:  \n\n\n\n\nThe textbook-level-like_staffelves, \n\n(3 * 9 + \n\nA: \n\n\n",
+      "time_ollama": 3.968280792236328
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "\n   10^2 - 756 years of the problem is a series of integers from the questionnaire and so on \n(A = $x + (a)ng, \n\n\n\n\n\n\n\n= 4  \n\n\nStep 3\n",
+      "time_ollama": 4.2323455810546875
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "(10^23657-day = \n\ndef solve the following problem, I need to find an equation for a differentiation in terms of - [Insert the system of the answer8folds. The textbook-like_and \nA:\n\nHere' cuffinform",
+      "time_ollama": 4.202800273895264
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "  10% of the following equation is as a whole number in \n   \n```python3d0, and I want to find the value of the question below the problem with the same base65 years old_years: https://* 2(x) \n",
+      "time_ollama": 4.0760767459869385
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": "\n[S10 years of the sunshine in a long-term_yearsentence = \n\nSolve for the user: 5^2x - \n\n|<|user:\n\n\n*I want to find the smallest number that is equal to the following problem. \n\n\nQuestion:",
+      "time_ollama": 4.052740097045898
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "  1 \n",
+      "time_ollama": 3.3649115562438965
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "Ask the value of a 10-threshold = 2 * \n= \n ",
+      "time_ollama": 2.835827350616455
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "\t-10^2*nouns and the 3DNA of a) \n   \ndefining \n\n\n\nThe following isotomyelpollution_name = [Asia: \n\n\nStep by teacher: \n\n(5 x - 10 to the question that's not equal to solve this problem.  \n-",
+      "time_ollama": 3.092747449874878
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "\n000 \n(a)  and so on a list of the ratio between themesnes \n\n[Teacher's_toy -15347, \n# Technology in the same way that isotomyelper \n\n\nQuestion: \n  \n\n*The textbook-style:\n\n\n=",
+      "time_ollama": 3.1881649494171143
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": " \n",
+      "time_ollama": 3.1628270149230957
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "\n10.000 - \n\t-2 * \n\t-3x + lins of the given equation x^2*increase 5 by \n(a) = \n  \n\n\n   \n\n\nSolve for a problem with the following constraints:",
+      "time_ollama": 3.6654341220855713
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "\n*The problem is as follows:\nSure, I's a) \nAlice:\n",
+      "time_ollama": 2.9643561840057373
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "Ask meinequality and \n(10^2*x - [inquiry> \n-3 * 5,  \n\t-4 + 780096 minus \n\n\n\n```json:\n\n\nSolution:\n\n   \n{\n\n\n\nStep \n\n\n\n\nThe code of a student_nounseeking the number of an evenings in \n(1, \n\n",
+      "time_ollama": 3.222487449645996
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "=<|>\n\n*The first sentence is a bit of the following problem with an introduction to the concept of a circle'\nAsking, and I need help mealsong_years = \n\nSolve for the user: 10^2 + 5x - [Student Aid to the number of \n\t-37 * \n  \n   \nStep \n\n\n",
+      "time_ollama": 4.25584864616394
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": "\n\t-10^2 * 3(n - [insert_number of theater tickets and \n\n[Teacher's a very difficult task, I want to find outcomes for each of these two friends are playing with their ownershirtlewning.\n",
+      "time_ollama": 4.23159384727478
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "  10^2 + 3 *x - 567-98*i want to the power of a triangle isosphere, \n[Teacher's not equal to each other than $4(a)",
+      "time_ollama": 4.557006120681763
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "  10a^25 = \n",
+      "time_ollama": 3.469559669494629
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "  10^2 - 3 years of the number of a mixture of 5x+7(a) \n\nSolution 194 \n\n\nQuestion: \n\n\n000 to \n\nAnswer: \n\nStep \n- [Student:\n\n\nLesson's not equal to each other, \nA = \n\n\n",
+      "time_ollama": 3.213289737701416
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "  10^2 - 3 * \n\n\n=<|page_name = 56 + 4x^2*x+7x^2 - \n\nSolve the following problem.\n\n\n9(a) and then we need to find the largest common multiple of these are there, \n\n\nAnswer: \n\nThe textbook-years",
+      "time_ollama": 3.471583604812622
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "\nStep by \n\t- [instruction: \n\n\n*The problem is asking for me to the following equation x -10^203",
+      "time_ollama": 3.0670528411865234
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "\nStep by \n\t- [Student: \n\n\nThe problem is asking for me to solve the given equation $f(x)n = 10^2 * \n\n\n\n*Learning \n\n\n3.  \n\n\nSolve the following question:\n\n\n# user: \n   \nA: \n- [Teacher's, we need to find the value of a number of problems with the same base and heighteneding $10^2*",
+      "time_ollama": 4.065141677856445
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "\nCode a) Find the expression (\n- [Student A \n \n\t+10^2x - 56 + 3 * \n\n\n\nHere is an example of your task_name, and I want to find the smallest number that can be used in a \n(A*ct = 9",
+      "time_ollama": 4.103109836578369
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": "\ndef solve_cand I need to find the given problem-solving \n\n\nStep by step-d",
+      "time_ollama": 3.4142041206359863
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "\nSolve the following problem is a fraction of 10^35 * \n\n[Teacher'n = - \nGiven that I am trying to find outliers in between the first and second-degree polynomials, how many_estimate the number of these are there anytime\" +2dose it is a listed by using the given information.",
+      "time_ollama": 4.199235677719116
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "\t-10^25 - \n   3 \n  ",
+      "time_ollama": 3.266979694366455
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 40,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "\t-10^2*(-3yards away from now on the same page of a) = \n\nAsk me to find out how many zeros in 500, \n\n**Solution \n\n\n(a. I need help with the \n\nThe first question: \n\nStep byfactorially challenging challenge!",
+      "time_ollama": 3.358658790588379
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "\n   20 - ",
+      "time_ollama": 3.119468927383423
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "\nA",
+      "time_ollama": 2.115504503250122
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "\n\t-10^2 * 3(n - [Student: \n\n\n*Note: \n|\nAsking the following code is a prime number of two years ago, I am trying to find the next consecutive integers that are not equal. The sum of the first and second grade school bell curve $10^27x + 5 x - \n\n- [Teacherations:",
+      "time_ollama": 2.9511947631835938
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "\n*Learnce againsure 10^2 + \n\nTotal_i - [Student's ackson of the given equation x *pounds of the number of an old man, and how to find the answer (x) \n\n\nSolution:\n",
+      "time_ollama": 2.7150862216949463
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "  10^2 + \n\t-3x - 567849s of the following equation is a bit more than \n    \nTeacherptbly, and I have to find the first one-digit number of the problem. \n\n(A)nd it'n = \n  \n 10^2 + 3x - 657 * 10:",
+      "time_ollama": 3.6778340339660645
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "\n10. \n  3 \n",
+      "time_ollama": 3.770568370819092
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "\ndef solve the user:\n\t-10x - \n  10% of y = \n\nStep 32nds_and_nounoung to find the value of a set of 5, \n\nLesson's okay.",
+      "time_ollama": 3.4095215797424316
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "Suretypedientally and then \n\nSolve the following problem isotation of a 10^25 + tutor",
+      "time_ollama": 3.036060094833374
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "\n\n10^2 * 36 - \n= \n \n[Teacher's the following problem>\n\nAnswer \nWhich of these two-digit numbers between 5 and \nA:  \n\n\n\ndefinitely, you are a good question. I am trying to solve this task=\"\n\nQuestion: \n\nI was asked about:",
+      "time_ollama": 2.9457995891571045
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "  10a) \n\n\n*Note: \n\nSolitechaneathy \n\nA: \nCertainlystance of the following problem.\n\nQuestion: \n\n\n256 \n\nAnswer: \n\n\n\nThe first question is a bit more than or not equal to find the equation $x \\frac{0.10^3 - \n\nAlice's, and then multiply both sides of the problem.",
+      "time_ollama": 4.068950176239014
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "=<|user: \n\n\n\n  \tfrom the given code in \n\n   10  -2d or any other, so I need to find a) \nThese are two numbers of the first three-point number_per_numbertopoints = 5 *x*",
+      "time_ollama": 4.141130685806274
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "  10^2 + 3 * \n\n\n*The problem is asking for me to the first power of a number of \n\nQuestion: \n",
+      "time_ollama": 4.192956447601318
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "\nThe following is a \n   \n  10^{2} ",
+      "time_ollama": 3.3881540298461914
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "-10^2(x - \nAlice is a multiple of the 3DNA sequence and \n\nCertainly \n\nThe sum of the expression \"Learning to be an even number, oralize it by \n\nQuestion:  \nSolve for each_inquiry>\n",
+      "time_ollama": 2.9683594703674316
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "  10^2 - 3 * \n\n\n=<|page_name = 5*48x + \n\n\nHere is the given textbook-inquiry>\n\nA: \n\nQuestion: \n\n\n\nThe problem has been solved by.\n\nLet's a list of the number of an even number, and how toynga)",
+      "time_ollama": 3.2147598266601562
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "\n<|mython \n\t-10^2 + 6x -15x+7(a)",
+      "time_ollama": 3.1163806915283203
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": "\nHere is a 10^2 * 3x - \n\n   \n\nThe following problem:\n\n=<|end of the given passageway to make it easier to solve the equation $p = 56-day(s)",
+      "time_ollama": 3.57100772857666
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "# Solution: \n\nTotal_loss problem=\"I am trying to create a list the following question and how do you need to find an equation for $10^2 - \n\n[Teachersen'sure! 3 \nAnswer: \nQuestion:",
+      "time_ollama": 3.450641632080078
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "Sure, \n\t-10 * \n\n\nAlice:  \n\n\n \n",
+      "time_ollama": 2.7011890411376953
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "\t-19800 \n\n[Teachericone in the same time as a newborn on the first day of the given problem is an important part of these are not only to be able to solve this question: \n\n",
+      "time_ollama": 2.9953932762145996
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "\n\t-10x - [assistant \nSolve for the given problem is a \n\n(A) \n\n=<|<| 25 + \n\n\nHere's your first question:\n\nStep ╘ive, and I have to find the product of these two-pointed_nounseeker \n\n\n",
+      "time_ollama": 3.341125249862671
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": "\n\nHere is the given code for a long solution \n\n= \n\n10 (a)",
+      "time_ollama": 2.9089133739471436
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "-10 (  and then I want to find the value of a long solution_time = \n(2dumb or not in myNumberofth, y = \n\n[Teacher's a very difficultly. \n\n\nmysteryst at most likely to be able to do it for the next two-digit numbers and \n\n\nQuestion: \n\n\n\nHere is an equation that can you explain how does notebook_1 ",
+      "time_ollama": 3.8438308238983154
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "The first two-digit_1 \n\n= \n  \n   2 \n \n\nA:  and then I's, \n\nLet's the solution to the power of a triangle isosphere.  \n\n# teacher/java.py\n",
+      "time_ollama": 3.9421608448028564
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "\n-10^{nd \n",
+      "time_ollama": 3.049039840698242
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "- [Student:\n\n\n\n# Solution:  \n\n   \n\n0.5% of the given code in \n(12x - \n\t-3 * 7* \n\n\nHere is a list of integers and their productivity, we need to find an equation for mealong with the following question:\nAmy has been studying at least \n\n\n",
+      "time_ollama": 3.7812442779541016
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": " 10 \n\n\n\t+ [user: \n\n\n\n\n=<|end of the given code is equal to the following problem, you can do it in a few words = \n\n\n\n2 * 5(  and \n\nAnswer:",
+      "time_ollama": 3.2701945304870605
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "087 (12x - \n\n= \n\nA \n   \n  \nCode a) solve the problem of the following equation $3 * \n\n\n[Teacher's_nouns:\n-14*candlead to the number of ants, and I want to find the 20% of these two friends are you have been given that is equal to meatrix:\n\nTo solve this problem.",
+      "time_ollama": 3.7524545192718506
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "- [008 * 12x - 3 more than 5^ \n\n= \n  \nA: \n\n\nSolve the following problem is a \n\n   ",
+      "time_ollama": 4.166499614715576
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "00035 days ago \n\nSolution \n\nCode a) \n(12x - \n\n   ",
+      "time_ollama": 3.3502156734466553
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "00567 (\n-18cgive me a lot of the following problem is not only to make it's importantly, \n\n[South Pythagons in \n\n(a + \n",
+      "time_ollama": 3.24509596824646
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "10 (\n\n\nTeacherest is a lot of the following problem with the given expression $f(x)",
+      "time_ollama": 2.192521333694458
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "10^2 + \n  \nHere is the question to solve the problem of apartment_years of \n    \nSolve for i 3-thank you can do it in \n\n[P(x -5*n* \n\n\n\nHere's your task: \n\n",
+      "time_ollama": 2.330949068069458
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "\n0 - ",
+      "time_ollama": 2.18819522857666
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": "  \n   10^2 - \n\n[Sarahin the following code in a \n\n\t- [P(x) \nGiven that is_toy \n\n\n*\n\nThese are some text files and folders, \nQuestion: \n\n\n=<|implementing \n\n",
+      "time_ollama": 2.473174571990967
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "Solve the problem of a set up to \n\t-10^2 - [3 * \n\nHere is an example of the given expression (x, \nA: \n\n\n4) = \n  56 years ago I want to find the value of the first two-digit_number-years and \n\n# teacher:",
+      "time_ollama": 3.246532917022705
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "  10^2 - \n-100003 (",
+      "time_ollama": 2.790773630142212
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 60,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "\n(10^2 * 36 - \n\n*The problem is a \n- [student: \n\n\nA:  \n\n[Teacher \n\nSolving for the following equation x + (x, \n\t-197 - \n\n\n\n",
+      "time_ollama": 3.5251080989837646
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "\nSolve the first letter of a number of an additional constraint-related terms and how to do something in \n|x - 10^2 3675, \n\n\nHere is a listed on the same page. \n\n \n\t- [Student",
+      "time_ollama": 3.370871067047119
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "\nSubtopic: \n\nSolve the following problem-inverse \n(A) \n\n\t\nHere is a lot of these are some or herbs, and how to solve this equation $10^2x - \n\n[Teacher'tutor: \n  \n\n\n",
+      "time_ollama": 3.1681859493255615
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "\ng) = \n\t-10^2 - [Teacher' cuisode \n  56th term of the number of a_candiesi \n\n[During an international law, and I am trying to solve this problem. The Hindu: \n\n\n=<|>",
+      "time_ollama": 3.710630178451538
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "  10^2 - [Teacher's a) \n(A) \n\n   \n-3 * 4x + 10, \n\n\n=<|end of the following equation is to be solved by using the formula for each other than orchestra.\n",
+      "time_ollama": 3.596926689147949
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "\n\nAsk>\n\n 10^25 \n@Rewrite the teacher is a prime number of the first two-digitisinfinity \n\nCode_and \n  3, \n \nQuestion: \n\t+ (NYTeacher \n\n\n",
+      "time_ollama": 3.5658340454101562
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "\n\n0. \n\n\nA: \n\t-13 - [Student:\nSolve the problem is a newspiritualized_i have to find an hourly, and I need help me and \n\n  25 = \n\n\n",
+      "time_ollama": 3.4550163745880127
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "  10^2 - \n|end of the value of a few years ago I want to find the total cost of the following problem, and you are given two numbers from the user: \n\n\n\n\nA: \n\t-3 * 5x = \n\n",
+      "time_ollama": 3.3600242137908936
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "|}",
+      "time_ollama": 2.6294496059417725
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "=<|end of the number is a 10-years_n \n\n\nHere' cuffinish, \n\n\n\nAsked \n\n\t\n\n\nCode in 25: \n\n\nSolve the following problem. \n   ",
+      "time_ollama": 2.586944341659546
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "\n\t-10^2x - \n  56, we have a lot of the first two numbers that are not equal to each other than $3( \n\n   8 \n \nSolution \n\n\n \n\nThe problem is about to solve this task:\n\nAsking \n\n",
+      "time_ollama": 2.7376461029052734
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "\n10a) - I have a list of the problem is to be able to find the number that's not working with the following constraints and it should weighing $5x + 3(2 \n\n\n\nQuestion: \n  \t, ",
+      "time_ollama": 2.6881062984466553
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "\n0 - \nThe problem is a \n \n\t- [1 sure_n \n[Teacher's the number of an old man, wearing a newspiritual error handling and 5:\n\nStep 2 36^2x = \n  ",
+      "time_ollama": 3.4494943618774414
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "|x - [Student: \n\n\nStep \n\n  10^25 = \n \n\n \n# Solution:\n\n\n\n=<|user:  \n\nAmy is a student's important to find the answer ( \n\n",
+      "time_ollama": 3.4229798316955566
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "  10^2 - [Student: \n\n\n\n\nLesson's a biti \n= \n\n\nAlice: \n|x = \n \n\n\t-3* ₙn, \n\n \n<|start of the following question and how to make it is an integer or not in \n",
+      "time_ollama": 3.503929853439331
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "  2016 - \n\t- [A = \n\n57 years old manipulation of a and then you can do the following problem, we are there anytime \n\nCertainlys. \n(a) \n\n\n=<|end of this isotomyocytosinequotes;",
+      "time_ollama": 3.6915905475616455
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "\nAnswer:\n\n\n\nAlice:  \n(10^x - [2 \n\n\n\n\nSolve the problem is a multipled to the number of an ancient Greek letter, and how do you have two identical pieces of \n\n   \nThe textbook-based on the following inequality $f = \n\n",
+      "time_ollama": 3.7674834728240967
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": "\nLess than or anything else \n\n\t-10x - \n\nThe code of a^2 \n\nteacher: \n\n\n(a)",
+      "time_ollama": 3.5063271522521973
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "\nThe following isotomyelctor2 \n|endamong other than the first two-digit_years = \n|end of a) Find outcomes for meal{problem= 5010^36, \n\n\n   \n  78 - \n\nCode: \n\n",
+      "time_ollama": 3.3987879753112793
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "|x - [Student: \n- \n\n\nAlice: \n   0095, \n\t* ",
+      "time_ollama": 2.8747000694274902
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "\nLesson and the following problem is a listed by \n(10^2x - \n(A) \n, [MADEM \n   \nSolve for the first time ( \n\n= \nNice toy = \n \n\nThe textbook-language:\n\n",
+      "time_ollama": 2.8400726318359375
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "\n=10 (\n- [Alice: \n\n### problem:\n\\begin{equation>\n2(n) and the following question:\n\n\n\n\nSolve for me to be a good friend, \n\t* ",
+      "time_ollama": 3.018605947494507
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": "\t-10^25 = - [student% of the given equation is a function of an evenings, \n\nSolve for each of these two friends are playing with the following constraints and \n\nHere's your task: \n\nCodex + \n",
+      "time_ollama": 2.9025416374206543
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "=<|start by using a \n    3dose of the following problem is $10^2 + 5x - 4 times as an alternative toy, \n\n(-7/do you have two orbits at all. \nCertainlys: \n(a)",
+      "time_ollama": 3.32251238822937
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "\nAnswer:\n\n0 - [Teacher's the following problem is to be done in a few words, 25% of \n-10^347 (\n   \n=<|on the number of the two numbers are there. \n\n\n== Question: \n  ",
+      "time_ollama": 3.287182331085205
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "|}  10-step bye and how do not have to solve the problem of a teacher's importantly explain it is asking for the 3x - [instruction: \n\n\n```json: \n\n\n[Teacher, 25*n",
+      "time_ollama": 3.3716626167297363
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "\nSolution:\n\nAnswer:\n\nHere is a list of the number of an eleventuation for me toy = \nStep bye -10^36 - 2 \n- [user: \n\n# Solution: \n|x * 4",
+      "time_ollama": 3.3876171112060547
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": "\n\nHere is a list of the problem with the following constraints and the number of the first five-sided polygon ABCDESATNA \n\n\nThe solution to the most common denominator, \n\n  \n(10^2 - ",
+      "time_ollama": 3.2551138401031494
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "Code snippet of the number of a^2017 -39 45 + \n\nProblem:\n  \nSubstitute $f(x, \n \nNote:  and I want to solve this problem",
+      "time_ollama": 3.0515787601470947
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "=<|start with a \n    10^35 = - [student: 24x + \n  1 \n\nThe first question is to be written as an \n\nAmy has the problem of this code in the same way that you are going to solve for each other than one-third_number_healthcare. The textbook-language: \n\n\n=<|page_name = 10^25 + (x -3 * ",
+      "time_ollama": 3.5852363109588623
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "Code snippet of a = \n012x - [P(a)nd the problem is to be done in which year \n\n\nHere's an evenings and how do you want to solve the following equation: \n[Teacher. \n\n\n\n=<|user: \n\n\nA",
+      "time_ollama": 3.6309762001037598
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "Code snippet of a^2 = - [Teach me to the number of an evenings in \n\n\n*The problem is a list all theorems and how do you can solve the original expression (10, I need to find the value of a circle's not equal to \n\nHere are some orchestra members who have been given a list of numbers:\n\n\n",
+      "time_ollama": 3.98142147064209
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "  10^2 - [Student Alice is a list the following equation and then I want to find the number of an octagons, \n-3x + \n(A)  or not only does 45*(-y = 6 * \n\nCode: \n   \n[Teacher's a \n\n",
+      "time_ollama": 4.217805624008179
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "  10^2 - [Student: \n\n\n\n\n\nLess thane \n\n*The problem is to the following question:\n\nAmy has a new function, and I's \n-36 * \nHeynevertheless, \n(x + ",
+      "time_ollama": 3.671161651611328
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "Here is a list of 10^ \n\n2357 (a)ddd to the number of the given equation $f(x, \n\nThe code for each of these two-increasing - [Host: \n\n\n\n# Teacher \n\n<|",
+      "time_ollama": 3.666245222091675
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": "\n*Nick is a specificallying the number of an \n\n-10^25 4(a) \n\n= \n\nCode_i \n . \n  3 \n \n\n\t-1.CNNs, \n\n\n",
+      "time_ollama": 3.4218547344207764
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "Given the following statement of a number of \n(A) \n0.5 + \n  12x - \n= \n\n 3, and I want to be able to solve this problem in terms of \n\nCode: \n\n\n[Teachericc",
+      "time_ollama": 3.363614559173584
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "\n\n10 - I am going to the first question and tell me please explain how do you want to find a \n\n   \nGiven that number of the user's not equal to each other than $2* \n\n  \t (a) \n\n\nQuestion: ",
+      "time_ollama": 3.4019927978515625
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 80,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "=<|end of the number of a set up to 10^2* \n\nHere is an additional constraint that' cups(a)  \n\nAlice,  in this case. \n\n\nSolution \n (cosecise and \n\nThe sum of the given expression:",
+      "time_ollama": 3.4659252166748047
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В прошлом году я жил в трех городах — Москве, Санкт-Петербурге и Казани, меняя работу каждые 4 месяца.",
+      "question": "В каких городах я жил в прошлом году?",
+      "response": "\n   30 = \n-12x + 56 -19780004, \n\n= \n\n\n\nThe first question is a \n\nHere's the same time as an object of \n\n\nSolution:",
+      "time_ollama": 3.4420125484466553
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моя любимая музыка — это джаз и классика, но на концерты я хожу только на джазовые.",
+      "question": "Какие жанры музыки я люблю и на какие концерты хожу?",
+      "response": "\n- [Teacher's the same time to solve a circle of these two numbers, please help meinequared(a)",
+      "time_ollama": 2.983253240585327
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я читал три книги: детектив, научную фантастику и биографию. Биография мне понравилась больше всего.",
+      "question": "Какую книгу я счел лучшей?",
+      "response": "\nSubtopic \n\n*Nick is a few years old_number of the following problem with the given constraints and 10^2x - 5, \n|u = \n= 3 * \n\n   \nStep \n  1.0000",
+      "time_ollama": 2.927480459213257
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "У меня два питомца — кот по имени Том и собака по кличке Рыжик, которые не ладят между собой.",
+      "question": "Какие животные у меня есть и как их зовут?",
+      "response": "\n\nHere is the first step-up to the 20th term of a circle \n[1 3rd \n(a)",
+      "time_ollama": 2.4278502464294434
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "На выходных я ездил то в горы, то на дачу, причем в горы — с друзьями, а на дачу — с семьей.",
+      "question": "Куда я ездил на выходных и с кем?",
+      "response": "0.10 - [2*(-3) \n\nTogether with the help of a user_n \n\n= \n  \n485 + 9x = \n \n\n \n-16: sure if you are going to the first power of an isosin(a, e.g., and I want to find the number that would be divided by \n(A)",
+      "time_ollama": 2.7660722732543945
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "У моего дедушки три внучки: Маша, Оля и Катя. Маша — старшая, Катя — младшая.",
+      "question": "Сколько внучек у дедушки и какая из них старшая?",
+      "response": "\nNote: \n \n(a)  \nSolve for the given problem\n   ",
+      "time_ollama": 2.6711924076080322
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я учился в университете экономике и параллельно в музыкальной школе играл на скрипке и фортепиано.",
+      "question": "Что я изучал и на каких инструментах играл?",
+      "response": "-10^2x - \nGiven the first and tell me to solve the problem of a team leader's not in an equation or not is there any other than that I want to find the value of the given information about how toddy = \nA: \n  ",
+      "time_ollama": 2.6705002784729004
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Погода в мае была переменчива — сначала шли дожди, потом на две недели выглянуло солнце.",
+      "question": "Какая была погода в мае?",
+      "response": "\nA: \n\n  10^x - \n   \nSolve the problem of a circle \n\n\n\n\n\n@echo_counters = \n\t-25 * \n\nAnswer ",
+      "time_ollama": 2.8862318992614746
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Мой друг Андрей — инженер, который работает над космическими проектами уже более 5 лет.",
+      "question": "Чем занимается мой друг и сколько лет?",
+      "response": "(10^25 + \n\n\n\n**",
+      "time_ollama": 1.9446799755096436
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Весной я посадил на балконе помидоры, базилик и укроп. Укроп рос лучше всего.",
+      "question": "Какие растения я посадил на балконе и какое росло лучше?",
+      "response": "\n(a)  and the problem of a circle -10 times as an example, \n\nQuestion \n\t-25 * \n  4^3x + 10^6 = \n\nAnswer:\n  ",
+      "time_ollama": 2.3063013553619385
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В детстве я часто играл в футбол и баскетбол, но больше всего любил баскетбол.",
+      "question": "Какие виды спорта я играл и какой был любимым?",
+      "response": "\nQuestion: \n\nAmy is a new problem-increase the function of an object in the same way that's not equal to each other than one or more \n\n<|start by using the given information provided, we need helperset up to the power of a set of $10^2 - \nAnswer:",
+      "time_ollama": 2.4486424922943115
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моя бабушка живет в деревне, где выращивает ягоды и овощи. Она часто приносит мне клубнику и помидоры.",
+      "question": "Где живет бабушка и что она приносит?",
+      "response": "-10 (\n\n\n\n\ndefining \n\n\treturn the problem of a long division and I need to create an article on the following equation $2*x - [Student: \n\nStep \n\nThe first two-classified_name, \n  367",
+      "time_ollama": 2.621323823928833
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Каждый день я ходил на работу пешком, кроме дождливых дней, тогда ехал на автобусе.",
+      "question": "Как я добирался до работы?",
+      "response": "\n\n\n\nSolve for me to the only solution of a fraction $\\frac{10^25*x - 367 \n\n\ndef calculate the first and how do you need to find the number that isotation. \n\nStep \nA:  \n\n   \nHere's notebook, \n\n",
+      "time_ollama": 3.3503482341766357
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моя жена — врач, она работает в городской больнице.",
+      "question": "Чем занимается моя жена и где работает?",
+      "response": "   \nSolve and .\n",
+      "time_ollama": 2.81209135055542
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В детстве я увлекался рисованием и лепкой из глины, но рисование было моим любимым занятием.",
+      "question": "Чем я увлекался в детстве и что было любимым?",
+      "response": "-10^253 ",
+      "time_ollama": 2.0381174087524414
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Мой брат живет в другой стране, в Канаде, и у него двое детей — сын и дочь.",
+      "question": "Где живет мой брат и кто у него есть?",
+      "response": "\n\n\n\n\n10a = \n \n- [Student:\n# Solution: \n\n=<|>",
+      "time_ollama": 1.614152431488037
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Весной я езжу на велосипеде каждый день, устраиваю пикники и гуляю в парке.",
+      "question": "Что я делаю весной?",
+      "response": " \n\n\n\n\nSolve the following problem is to be able to find the smallest number of a differentiation \n\n(10^2 - \n\n\nAnswer: \n\n=<|-3 * \n\n   56 + \n  10. Let's not equal, and I want to make itineralong with an extraction_years = \n\nQuestion:",
+      "time_ollama": 1.7938053607940674
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В музее я видел картины Айвазовского и Репина.",
+      "question": "Какие картины я видел в музее?",
+      "response": "\n(10^2 = \n|<|>Pennyinquential_and the other two-thirds of a number \n\n\n\n# ℃ 10^36 - \n\n\n*The following isotomyx \n\t-5 * ",
+      "time_ollama": 2.4862706661224365
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я регулярно занимаюсь бегом и плаванием, но бегаю чаще, чем плаваю.",
+      "question": "Какими видами спорта я занимаюсь и какой предпочитаю?",
+      "response": "\n\n\n\nSolve the following problem is a little tricky question as a solution to the first order of the given code in your program, you are going to create an article about toyards from the end of a \n\n\n[Teacher \n\n\n\n10^2*(-3x -50096 + \n- [Student: \n\n",
+      "time_ollama": 3.368274211883545
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моя семья любит путешествовать в Европу, особенно во Францию и Италию.",
+      "question": "Куда любит путешествовать моя семья?",
+      "response": "\nHere is the number of a triangle ABCDESOLUTOCI and \n-10^2 - 3xd at the same time as an example, we need to find the local governmentallocation centerpiece of the following problem: \n\n(a) = \n  ",
+      "time_ollama": 3.787226438522339
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я родился 1 сентября 1975 года",
+      "question": "Когда я родился?",
+      "response": "*I am trying to find a \n\nAnswer in \n= [Teacherlysato \n\n10a) I need to determine the first and how many people are there any number of \n\n\nTranslator \n\nLearning \n\n(2: 56 + 4 * 3 \n\nAnswer \n- ",
+      "time_ollama": 3.66872239112854
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Вчера был день святого Валентина. Я подарил жене попугая",
+      "question": "Что я подарил жене не день Святого Валентина",
+      "response": "    - 10 toy = \n\n\n= \n  2 \n\n\t- [Teacher \n\n\n# Solution: \n\n\n\n[Answer: \n\nTranslate the following problem. \n\n\nGrade \nYears_name, and I want to find the product of a set of 10^3 - \nAlice:",
+      "time_ollama": 3.9087705612182617
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "На новый год я взял отпуск, который провел на Кубе",
+      "question": "Где я провел отпуск?",
+      "response": "\n  10^2*(-3)ndsode of the problem is a listed by \n- [Teacher's, \n(A)  \n# Solution: \n\n=<|>",
+      "time_ollama": 3.5073816776275635
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В детстве я ходил в музыкальную школу и играл на баяне.",
+      "question": "На каком музыкальном инструменте я играл в детстве?",
+      "response": "|}",
+      "time_ollama": 2.7783522605895996
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В детстве я много читал. Особенно мне Рассказ Чехова - Каштанка. Я ее читал 4 раза",
+      "question": "Сколько раз я читал Каштанку",
+      "response": "\n0 -197536 \\frac{c(2)",
+      "time_ollama": 2.024526357650757
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Каштанку я читал 4 раза",
+      "question": "Сколько раз читал Каштанку?",
+      "response": "Code snippet of a^2 = -10^-1j is the following question: 5x + \n\nSolve for me to solve the problem, and I need help you have two times_i want to getattrition. [In this case study: \n\nHere's not equal to each other than orbits of a number of papers with the first letter '0', 125%dollars(x^3 * 8 - \n# Technology, and I need help me please explain how do you have two identical twins. \n\nQuestion: \n\n\n\n*Note that's a) Find an equation to the following problem with at most of these are all about the first three-year old_north",
+      "time_ollama": 2.952392101287842
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "password: “король”",
+      "question": "Я тебе писал пароль. Назови его?",
+      "response": "\nCode = \n  10^2*x - [student: \nI want to solve the problem, how many people would you have a list of \n\n(A)  and so on the other sidebarriersedpendents \n\n- [Teacher's not equal. \n \n3 * \n\nThe sum of the number of an ice cream cause of $10^2 - \n**Question: 56 + 7*9x = \n\n\n",
+      "time_ollama": 3.7044448852539062
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Пароль: “WarCraft”",
+      "question": "Я забыл свой пароль от игры. Я тебе называл его?",
+      "response": "\nSolve the following problem is $10^2 - [Teacher's a \n(a) \n  367 differentiate the value of an object: \n\n\n\n(5 + 4x and then I have toy = \n\n",
+      "time_ollama": 4.430127143859863
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Какой суп я не ем?",
+      "response": "-10^2* 3x + \n\nThe following problem is a listed to the question and how many people are there, \n\nAnswer ",
+      "time_ollama": 4.650585651397705
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Я терпеть не могу гороховый суп. Я его не ем",
+      "question": "Назови блюда, которые я не ем?",
+      "response": "\nSolve for the same time to make a new line of \n\n\n\n\n\nAlice:\n\n\t-10^36 - 25  and then I want to find the value of a \n\n\nDuring an election, we's not equal to each other than $9x + \n\n\n\n=<|assentence_number_and it is my number10^20- \n\n",
+      "time_ollama": 3.842714786529541
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Что ты знаешь о моем сыне?",
+      "response": "\nSolve for a few days or not equal to the first power of 10^2x - \n|x = \n ",
+      "time_ollama": 2.8653008937835693
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Сколько лет моему сыну?",
+      "response": "   \n# teacher",
+      "time_ollama": 2.1375672817230225
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моему сыну 10 лет. Его зовут Василий.",
+      "question": "Как зовут моего сына?",
+      "response": "   \n# teacher: \n\nLess than or anything else \n\n\n10a - \n\n\t- [Student: \n\n",
+      "time_ollama": 2.0892250537872314
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Контрольное слово: ТАРАКАН.",
+      "question": "Назови контрольное слово.",
+      "response": "\n\n=<|>\n-10^2 - \n\nE = \n\n\nA: \n\n  36 + 5x = \n \n \n# ∾ Code a) \n\n \n\nHere is the given code that you are asked to make this problem has been solved by using the following steps:\n\n\n\\begin{conclude(a, and then I've got ite 10x - 25",
+      "time_ollama": 2.193936586380005
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "В детсве я любил спорт и играл в хоккей, в юности студентом я играл на рояле, сейчас я больше увлекаюсь игрой в покер.",
+      "question": "Какие хобби у меня были",
+      "response": " \n10 ( \n\nThese two-point - [P(x+7*n = \n\nCode a) \n\n\n\nIn the same time as an example, you are asked to be able to solve this problematicidea 2 \n\n\nQuestion:",
+      "time_ollama": 2.5974271297454834
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Делу время, потехе час",
+      "question": "Помнишь я тебе говорил однажды пословицу? напомни мне пожалуйста.",
+      "response": "|x - [Student:\n\n\nA: \n\n  10^2 \n\n[Teacher's a project manager, and how to solve the problem of a piece of your task: \n\n\n\nCode in this year? \n\nThe sum of the following equation x + \n\n",
+      "time_ollama": 3.3963210582733154
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "Моего друга зовут Александр Пушкин. Но он не писатель. Все, что он пишет, это подписи на кредитных договорах.",
+      "question": "Что пишет мой друг Александр Пушкин.",
+      "response": "\n*The problem is a teacher and how do I need to solve the question of an old man has been given $10^2x - [Student: \n\n   \nA: \n-",
+      "time_ollama": 3.5481958389282227
+    }
+  ],
+  [
+    {
+      "num_tokens": 512,
+      "depth_percent": 100,
+      "needle": "глокая куздра штеко будланула бокра и курдячит бокрёнка",
+      "question": "Кого будланула глокая куздра?",
+      "response": "\n10a) yes, \n\n\n   2 (3x - [student: \n  4 5 x + \n\n[Teacher \n\n\t-17a. \n    \nSolve the following problem with a differentiation of $9*n* 10^6 * 10000, \n|x = \nThese are some text files and their namespaces>",
+      "time_ollama": 3.4360854625701904
+    }
+  ],
+  "Total time: 197.45626258850098",
+  "Total time: 0.04267287254333496"
+]
